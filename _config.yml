@@ -6,9 +6,9 @@ color:
   saturation: 0.04413237748667598
   rhythmicContrast: 0.8965176742058247
   brandColors:
-    - '#FFFFFF'
-    - '#14003F'
-    - '#14448C'
-    - '#12B5D4'
-    - '#137220'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Pictures Heal
